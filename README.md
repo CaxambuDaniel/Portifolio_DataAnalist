@@ -51,7 +51,7 @@ O segundo painel mergulha na conformidade e eficiência, focado no monitoramento
 * **Ferramentas:** Power BI , SQL, Excel, Git.
 * **Visualização de Dados (Data Visualization):** Design de painéis de controle e KPIs, storytelling com dados.
 * **Análise de Negócios:** Definição e monitoramento de KPIs (SLA, Aging, Banco de Horas), análise de tendências de série temporal.
-* **Processamento de Dados (Inferido):** Limpeza e modelagem de dados para análise de conformidade e tempo de ciclo.
+* **Processamento de Dados:** Limpeza e modelagem de dados para análise de conformidade e tempo de ciclo.
 
 
 ## Vamos conversar?
