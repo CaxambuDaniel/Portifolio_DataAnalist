@@ -62,4 +62,4 @@ Estou aberto a novas oportunidades e parcerias em análise de dados. Você pode 
 * 📧 **E-mail:** contatocarvalhos@gmail
 
 ---
-© [Ano Atual] [Seu Nome Completo]
+© 2026 Daniel carvalho de Souza
