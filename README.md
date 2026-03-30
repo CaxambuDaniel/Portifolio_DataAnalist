@@ -2,7 +2,7 @@
 
 ## Olá, e bem-vindo!
 
-Sou um Analista de Dados com foco em transformar grandes volumes de dados em insights acionáveis que impulsionam decisões de negócios e otimizam operações. Minha expertise está no desenvolvimento de soluções de ponta a ponta, desde a coleta e limpeza de dados até a criação de visualizações de dados interativas e estratégicas.
+Sou um Analista de Dados com foco em transformar grandes volumes de dados em insights que impulsionam decisões de negócios e otimizam operações. Minha expertise está no desenvolvimento de soluções de ponta a ponta, desde a coleta e limpeza de dados até a criação de visualizações de dados interativas e estratégicas.
 
 Abaixo, apresento um exemplo do meu trabalho focado em **Gestão de Tickets e Desempenho de Suporte**. Este projeto demonstra minha capacidade de criar visibilidade e métricas de desempenho para uma operação de serviços de TI.
 
