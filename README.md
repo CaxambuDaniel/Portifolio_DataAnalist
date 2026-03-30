@@ -1,6 +1,6 @@
 # Daniel Carvalho de Souza - Portfólio de Análise de Dados
 
-## Olá, e bem-vindo!
+## Olá e bem-vindo!
 
 Sou um Analista de Dados com foco em transformar grandes volumes de dados em insights que impulsionam decisões de negócios e otimizam operações. Minha expertise está no desenvolvimento de soluções de ponta a ponta, desde a coleta e limpeza de dados até a criação de visualizações de dados interativas e estratégicas.
 
